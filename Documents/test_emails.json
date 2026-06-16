@@ -1,0 +1,10 @@
+[
+  "test.user@example.com",
+  "admin123@my-domain.net",
+  "invalid.user.example.com",
+  "no_at_symbol_domain.org",
+  "john.doe@website.com1",
+  "support@service.invalid-tld",
+  "invalid space@example.com",
+  "double..dot@my-site.com"
+]
