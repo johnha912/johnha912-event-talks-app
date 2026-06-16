@@ -1,0 +1,1 @@
+This document lists the required Python packages for the BigQuery Release Pulse application. It specifies Flask as the web server framework, requests for executing HTTP requests, and beautifulsoup4 for parsing HTML content. These dependencies ensure the application can fetch, parse, and serve the release notes successfully.
